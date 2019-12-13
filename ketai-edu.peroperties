@@ -49,12 +49,5 @@ mybatis-plus.mapper-locations=classpath:com/ketai/edu/mapper/xml/*.xml
 spring.jackson.date-format=yyyy-MM-dd  HH:mm:ss
 spring.jackson.time-zone=GMT+8
 
-# 微信开放平台 appid
-wx.open.app_id=wx860bf23c66d93e33
-# 微信开放平台 appsecret
-wx.open.app_secret=9c92026ab4faa4a4f7ac4cf10b2a8a3c
-# 微信开放平台 重定向url 根据实际情况配置（需要在微信开放平台配置）
-wx.open.redirect_url=你的回调url
-
 # 设置日志级别
 #logging.level.root=WARN
